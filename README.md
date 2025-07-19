@@ -26,5 +26,37 @@ It helps users stay consistent with their coding practice by adding, tracking, a
 
 ## 📂 Folder Structure
 
+dailyDSA/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ └── styles/
+├── package.json
+└── README.md
+
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+```bash
+git clone https://github.com/naincy2305/DailyDsa.git
+cd DailyDsa
+npm install
+npm run dev
+
+
+---
+
+3. Scroll down → In the “Commit changes” section:
+   - Write: `Updated README with project details`
+   - Select: **Commit directly to the `main` branch**
+   - Click: **Commit changes** ✅
+
+---
+
+
+
 
 
